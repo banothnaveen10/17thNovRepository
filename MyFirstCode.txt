@@ -1,5 +1,7 @@
 Hi Naveen,This is your 1st git project
 Hi naveen this is updated file
 
+Hi naveen this changes are made on Branch1 and need to create a pull request to merge it on Master branch.
+
 Thanks and Regards
 Naveen Banoth
